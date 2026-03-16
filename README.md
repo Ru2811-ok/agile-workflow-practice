@@ -28,6 +28,8 @@ Tools used:
 
 -Jira
 
+Project update
+
 Methodologies:
 
 -Agile methodology
